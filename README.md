@@ -47,3 +47,6 @@ Developed a complete full-stack blogging platform enabling users to securely reg
 ```bash
 git clone https://github.com/your-username/blogify.git
 cd blogify
+npm install
+npm run dev
+
